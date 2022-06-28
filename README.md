@@ -7,5 +7,4 @@ Checkout
 Credit card payments with Stripe.
 
 Security using JWT, OAuth2, OpenID Connect and SSL/TLS.
-Protect access to sensitive data.
  
